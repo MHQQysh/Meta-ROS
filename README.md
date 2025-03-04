@@ -18,7 +18,7 @@ This project is hoped to be modular, readable and easy to maintain.
 
 ## Doc
 
-This is a documentation describing how this project is designed -> 
+
 [Meta-ROS-Doc Web](https://meta-team.github.io/Meta-ROS-Wiki)
 
 ## Dependencies
