@@ -19,6 +19,7 @@ public:
 
 private:
     rclcpp::Node::SharedPtr node_;
+    bool enable_key_mouse_;
     rclcpp::Publisher<operation_interface::msg::DbusControl>::SharedPtr dbus_pub_;
     rclcpp::Publisher<operation_interface::msg::KeyMouse>::SharedPtr keymouse_pub_;
     rclcpp::TimerBase::SharedPtr timer_;

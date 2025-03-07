@@ -1,0 +1,2 @@
+float64 target_power
+float64 referee_power
