@@ -21,13 +21,11 @@ This project is hoped to be modular, readable and easy to maintain.
 
 [Meta-ROS-Doc Web](https://meta-team.github.io/Meta-ROS-Wiki)
 
-## Dependencies
 
-1. ros-humble
-2. serial-driver
-3. moveit
-4. moveit-servo
-5. camera-info-manager
+
+
+
+
 
 ## Structure
 
